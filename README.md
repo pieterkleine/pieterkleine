@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pieterkleine
-- 🌱 I’m currently learning Python, Java and GitHub.
+- 🌱 I work in Finance (controlling), but I’m currently also learning Python, Java and GitHub to expand my data science capabilities.
 - 💞️ I’m looking to collaborate on small projects where I can be of value, learn and gain practical experience.
 - 📫 Send me a message on GitHub or Twitter: @pieterkleine
 
